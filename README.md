@@ -4,7 +4,7 @@ Official Undertale soundtrack
 This is the official soundtrack that was bought and merged here.
 Deltarune Soundtrack is available [HERE](https://github.com/FlyCod3R/deltarunesoundtrack).
 
-![Undertale Soundtrack Screenshot](https://github.com/FlyCod3R/undertalesoundtrack/blob/master/Undertale%20Preview.png?raw=true)
+![Undertale Soundtrack Screenshot](https://raw.githubusercontent.com/FlyCod3R/undertalesoundtrack/master/Undertale%20Preview.png)
 
 ---
 
