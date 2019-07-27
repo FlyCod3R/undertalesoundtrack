@@ -1,6 +1,6 @@
 # <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/daapuzx-0df84dbf-89d0-4690-affa-b80d54452535.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjYzZDNjLWFlNjctNDY0Yy05YTM3LTY3MDgyOWIyYTE1N1wvZGFhcHV6eC0wZGY4NGRiZi04OWQwLTQ2OTAtYWZmYS1iODBkNTQ0NTI1MzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9ucIKLdWf1OtFMs5lYcHKA9eCPkspB2xq9DNQB_xOdw" width="60px" align="center" alt="Undertale"/> Undertale Soundtrack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg" width="25px" align="center"/> *All is well!* <i>**(updated 28.06.2019)**</i>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg" width="25px" align="center"/> **All is well!** <i>(updated 28.06.2019)</i>
 
 Official Undertale soundtrack
 
